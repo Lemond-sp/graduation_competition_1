@@ -14,8 +14,8 @@
   - 分割を変更してはならない
 - 予定
   - 第一回 : ニューラルネットワークを使用しない⭕️
-  - 第二回 : 外部データ(事前学習)を使用しない
-  - 制約なし
+  - 第二回 : 外部データ(事前学習)を使用しない [[Link](https://github.com/Lemond-sp/graduation_competition_2)]
+  - 制約なし [[Link](https://github.com/Lemond-sp/graduation_competition_3)]
 
 
 ## 解法
